@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Invitation",
+  "description": "Elegant Invitation Card Maker & Event Manager with modern templates, custom styling tools, local draft persistence, and guest RSVPs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
